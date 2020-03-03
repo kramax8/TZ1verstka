@@ -1,0 +1,66 @@
+/*START SansationRegular*/
+@font-face {
+  font-family: 'SansationRegular';
+  src: url('../vendor/fonts/SansationRegular/SansationRegular.eot?#iefix') format('embedded-opentype'),  
+  url('../vendor/fonts/SansationRegular/SansationRegular.woff') format('woff'), 
+  url('../vendor/fonts/SansationRegular/SansationRegular.ttf')  format('truetype'), 
+  url('../vendor/fonts/SansationRegular/SansationRegular.svg#SansationRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*-/ END SansationRegular*/
+
+
+/*START MyriadPro-Regular*/
+@font-face {
+  font-family: 'MyriadProRegular';
+  src: url('../vendor/fonts/MyriadProRegular/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),  
+  url('../vendor/fonts/MyriadProRegular/MyriadPro-Regular.otf')  format('opentype'),
+  url('../vendor/fonts/MyriadProRegular/MyriadPro-Regular.woff') format('woff'), 
+  url('../vendor/fonts/MyriadProRegular/MyriadPro-Regular.ttf')  format('truetype'), 
+  url('../vendor/fonts/MyriadProRegular/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*-/ END MyriadPro-Regular*/
+
+
+/*START NEOTERIC Regular*/
+@font-face {
+    font-family: 'NeotericRegular';
+    src: url('../vendor/fonts/NeotericRegular/NEOTERIC.eot');
+    src: url('../vendor/fonts/NeotericRegular/NEOTERIC.eot?#iefix') format('embedded-opentype'),
+        url('../vendor/fonts/NeotericRegular/NEOTERIC.woff2') format('woff2'),
+        url('../vendor/fonts/NeotericRegular/NEOTERIC.woff') format('woff'),
+        url('../vendor/fonts/NeotericRegular/NEOTERIC.ttf') format('truetype'),
+        url('../vendor/fonts/NeotericRegular/NEOTERIC.svg#NEOTERIC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NeotericRegular';
+    src: url('../vendor/fonts/NeotericRegular/NEOTERIC_1.eot');
+    src: url('../vendor/fonts/NeotericRegular/NEOTERIC_1.eot?#iefix') format('embedded-opentype'),
+        url('../vendor/fonts/NeotericRegular/NEOTERIC_1.woff2') format('woff2'),
+        url('../vendor/fonts/NeotericRegular/NEOTERIC_1.woff') format('woff'),
+        url('../vendor/fonts/NeotericRegular/NEOTERIC_1.ttf') format('truetype'),
+        url('../vendor/fonts/NeotericRegular/NEOTERIC_1.svg#NEOTERIC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/*-/ END NEOTERIC Regular*/
+
+
+/* START HelveticaLight*/
+@font-face {
+  font-family: 'HelveticaLight';
+  src: url('../vendor/fonts/HelveticaLight/HelveticaLight.eot?#iefix') format('embedded-opentype'),  
+  url('../vendor/fonts/HelveticaLight/HelveticaLight.otf')  format('opentype'),
+  url('../vendor/fonts/HelveticaLight/HelveticaLight.woff') format('woff'), 
+  url('../vendor/fonts/HelveticaLight/HelveticaLight.ttf')  format('truetype'), 
+  url('../vendor/fonts/HelveticaLight/HelveticaLight.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/*-/ END HelveticaLight*/
